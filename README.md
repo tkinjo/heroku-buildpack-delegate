@@ -67,7 +67,6 @@ cp $BUILD_DIR/public/node.svg $BUILD_DIR/public/test
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
-echo "Node.js"
 exit 0
 ```
 

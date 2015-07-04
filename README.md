@@ -30,7 +30,7 @@ $ heroku create
 Using a custom Buildpack.
 
 ```
-$ heroku buildpacks:set https://github.com/heroku/heroku-buildpack-node
+$ heroku buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs
 $ heroku buildpacks:add https://github.com/tkinjo/heroku-buildpack-delegate
 ```
 

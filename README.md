@@ -99,3 +99,10 @@ $ git push heroku master
 
 
 Access `[app-name].herokuapp.com/test/node.svg`.
+
+
+
+Forked from
+---
+
+forked from [k-kinzal/heroku-buildpack-delegate](https://github.com/k-kinzal/heroku-buildpack-delegate)
